@@ -1,0 +1,5 @@
+# License Compliance Test File: Restrictive & Copyleft Licenses
+PyQt5==5.15.9
+mysql-connector-python==8.0.33
+pyperclip==1.8.2
+agpl-test-pkg==0.1.0
