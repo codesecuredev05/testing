@@ -1,0 +1,7 @@
+# SCA Test File: Outdated dependencies with known CVEs
+Flask==0.12.2
+PyYAML==5.1
+requests==2.19.1
+urllib3==1.24.1
+Jinja2==2.10
+Pillow==6.2.0
